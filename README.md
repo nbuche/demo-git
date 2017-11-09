@@ -1,2 +1,2 @@
 # demo-git
-Une démo de Git qui se passe bien modifiée depuis github
+Une démo de Git qui se passe bien modifiée depuis github puis depuis la machine locale
